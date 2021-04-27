@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/*slider*/
+
+.swiper-container {
+    width: 500px;
+    height: 500px;
+    margin: 10px auto 10px auto;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+  }
+  
+  img {
+      width: 500px;
+      height: 500px;
+  }
+.galeria {
+    margin-top: 8em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}  
+
+.item {
+    width: 20%;
+    height: 200px;
+    margin-bottom: 2%;
+  }
+
+  .swiper-container {
+      margin-top: 10em;
+
+  }
